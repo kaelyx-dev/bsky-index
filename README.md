@@ -66,3 +66,8 @@
 ## Other Lists
 
 * https://github.com/fishttp/awesome-bluesky
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=kaelyx-dev/bsky-index&type=Date)](https://www.star-history.com/#kaelyx-dev/bsky-index&Date)
