@@ -62,6 +62,7 @@
 * **[BlueView](https://blueview.app)** : Insights and Analytics for your own BlueSky profile
 * **[SkyKit](https://skykit.blue/)** : Check out your Bluesky user stats
 * **[SkyWatch](https://github.com/gxjansen/SkyWatch)** : Analytics & management tool for the accounts you follow
+* **[Bluesky Wrapped MadebyOlof](https://blueskywrapped.madebyolof.com/)** : A shareable year-in-review of your top posts, activity, and interactions; no login needed
 
 ## Other Lists
 
